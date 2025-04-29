@@ -1,0 +1,81 @@
+[
+ {"id":18 , "name":"Dosa" , "amt":"99" , "shop":"SKshop" , "ftype":"veg" ,
+  "pic":"https://images.moneycontrol.com/static-mcnews/2024/07/20240731124941_MixCollage-31-Jul-2024-06-17-PM-7906.jpg" ,
+  "latest":"no" },
+
+ {"id":27 , "name":"Butter Naan" , "amt":"399" , "shop":"RM shop" , "ftype":"Non veg" , 
+  "pic":"https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2019/08/1280-Indian-food.jpg" ,
+  "latest":"no" },
+
+ {"id":35 , "name":"Pizza" , "amt":"399" , "shop":"SSN shop" , "ftype":"Pizza" , 
+  "pic":"https://dineout-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/v1691786177/5212c0508849b813cfdf7f303e59993b.jpg" , 
+  "latest":"no" },
+
+ {"id":45 , "name":"Chicken Rice" , "amt":"199" , "shop":"BN shop" , "ftype":"Non Veg" ,
+  "pic":"https://cdn.siasat.com/wp-content/uploads/2024/03/mandi-hyderabad.jpg" , 
+  "latest":"no" },
+
+ {"id":98 , "name":"Itli" , "amt":"70" , "shop":"MM shop" , "ftype":"Veg" , 
+  "pic":"https://sc0.blr1.cdn.digitaloceanspaces.com/article/117714-fpfzghttxj-1555508155.jpg" , 
+  "latest":"no" },
+
+  {"id":72 , "name":"Chicken Biryanii" , "amt":"299" , "shop":"SM shop" , "ftype":"Non Veg" ,
+  "pic":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366/RX_THUMBNAIL/IMAGES/VENDOR/2024/9/24/3303d1b6-2f2a-4a22-aa55-c169d2b0843d_961773.jpg" ,
+  "latest":"no" },
+
+  {"id":60 , "name":"Meals" , "amt":"199" , "shop":"MSM shop " , "ftype":" Veg" ,
+  "pic":"https://upload.wikimedia.org/wikipedia/commons/6/62/South_Indian_non-veg_Meals.jpg" ,
+  "latest":"no" },
+
+  {"id":99 , "name":"Chicken Noodle" , "amt":"199" , "shop":"MK shop " , "ftype":"Non Veg" ,
+  "pic":"https://st.depositphotos.com/1529768/1305/i/950/depositphotos_13053196-stock-photo-chicken-chow-mein.jpg" ,
+  "latest":"no" },
+
+  {"id":40 , "name":"Burger" , "amt":"299" , "shop":"AV shop " , "ftype":"Non Veg" ,
+  "pic":"https://t3.ftcdn.net/jpg/02/44/61/14/360_F_244611436_4WKrV3YAOBo0LKe9S7hoXv55aDmgwvwr.jpg" ,
+  "latest":"no" },
+
+  {"id":88 , "name":"Momos" , "amt":"99" , "shop":"BP shop " , "ftype":"Veg" ,
+  "pic":"https://t4.ftcdn.net/jpg/01/64/07/15/360_F_164071564_K9GdU4Y5dLWxIQ7xk9xChbiqJlCZ0RDA.jpg" ,
+  "latest":"no" },
+
+  {"id":59 , "name":"panipuri" , "amt":"99" , "shop":"VP shop " , "ftype":"Veg" ,
+  "pic":"https://s3.scoopwhoop.com/ach/food/4.jpg" ,
+  "latest":"no" },
+
+  {"id":93 , "name":"puri" , "amt":"99" , "shop":"ND shop " , "ftype":"Veg" ,
+  "pic":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_366/RX_THUMBNAIL/IMAGES/VENDOR/2025/1/13/45de85e2-e686-41e7-ab96-38022fcd5843_735767%20(1).jpg" ,
+  "latest":"no" },
+
+  {"id":47 , "name":"Medu vada" , "amt":"59" , "shop":"LS shop " , "ftype":"Veg" ,
+  "pic":"https://www.vegrecipesofindia.com/wp-content/uploads/2021/07/vada-recipe-1-500x500.jpg" ,
+  "latest":"no" },
+
+  {"id":39 , "name":"Milagai Bajji" , "amt":"79" , "shop":"ML shop " , "ftype":"Veg" ,
+  "pic":"https://i.pinimg.com/564x/80/5f/27/805f27b76c357ff36a2fd858b1805b77.jpg" ,
+  "latest":"no" },
+
+  {"id":44 , "name":"Cutlet" , "amt":"69" , "shop":"RE shop " , "ftype":"Veg" ,
+  "pic":"https://flavorquotient.com/wp-content/uploads/2024/05/Vegetable-Cutlet-FQ-1-1.jpg" ,
+  "latest":"no" },
+
+  {"id":37 , "name":"Fish Fry" , "amt":"299" , "shop":"RA shop " , "ftype":"Non Veg" ,
+  "pic":"https://www.kannammacooks.com/wp-content/uploads/masala-fish-fry-recipe-ayala-meen-Mackerel-fry-8.jpg" ,
+  "latest":"no" },
+
+  {"id":14 , "name":"parotta" , "amt":"99" , "shop":"ZE shop " , "ftype":"Veg" ,
+  "pic":"https://anjappar.ch/wp-content/uploads/2023/11/Saravana-Bhavan-Veg-Kurma-recipe-How-to-make-Kurma-using-an-Instant-Pot-Vegetable-Kurma-Recipe-in-Instant-Pot.jpg" ,
+  "latest":"no" },
+
+  {"id":16 , "name":"Chicken 65" , "amt":"99" , "shop":"YA shop " , "ftype":"Non Veg" ,
+  "pic":"https://i.pinimg.com/736x/1b/26/88/1b2688f90686ad2a7115f4bf75a6a6f8.jpg" ,
+  "latest":"no" },
+
+  {"id":19 , "name":"Egg Fry" , "amt":"79" , "shop":"FE shop " , "ftype":"Non Veg" ,
+  "pic":"https://cookingfromheart.com/wp-content/uploads/2022/03/Egg-Pepper-Fry-5.jpg" ,
+  "latest":"no" },
+
+  {"id":20 , "name":"Samosa" , "amt":"59" , "shop":"AB shop " , "ftype":"Non Veg" ,
+  "pic":"https://cdn.pixabay.com/photo/2024/01/29/21/50/ai-generated-8540840_640.jpg" ,
+  "latest":"no" }
+]
